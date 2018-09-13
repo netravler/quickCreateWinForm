@@ -1,0 +1,7 @@
+c:\users\pheintz\documents\visual studio 2010\Projects\quickCreateWinForm\quickCreateWinForm\bin\Debug\quickCreateWinForm.exe
+c:\users\pheintz\documents\visual studio 2010\Projects\quickCreateWinForm\quickCreateWinForm\bin\Debug\quickCreateWinForm.pdb
+c:\users\pheintz\documents\visual studio 2010\Projects\quickCreateWinForm\quickCreateWinForm\obj\x86\Debug\quickCreateWinForm.Form1.resources
+c:\users\pheintz\documents\visual studio 2010\Projects\quickCreateWinForm\quickCreateWinForm\obj\x86\Debug\quickCreateWinForm.Properties.Resources.resources
+c:\users\pheintz\documents\visual studio 2010\Projects\quickCreateWinForm\quickCreateWinForm\obj\x86\Debug\quickCreateWinForm.csproj.GenerateResource.Cache
+c:\users\pheintz\documents\visual studio 2010\Projects\quickCreateWinForm\quickCreateWinForm\obj\x86\Debug\quickCreateWinForm.exe
+c:\users\pheintz\documents\visual studio 2010\Projects\quickCreateWinForm\quickCreateWinForm\obj\x86\Debug\quickCreateWinForm.pdb
